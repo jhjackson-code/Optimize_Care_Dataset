@@ -15,13 +15,12 @@ This project analyzes medication adherence among 1,000 patients using Tableau to
 - Age and gender had minimal impact on medication adherence outcomes.
 
 ## Dashboard Preview
+![Optimize_care dashboard](https://github.com/jhjackson-code/Optimize_Care_Dataset/blob/main/Dashboard%201%20(2).png)
+- Tableau Dashboard () 
 
 
-
-## Project Files
-- OptimizeCare Dashboard (.twbx)
-- Dashboard screenshots
-- Project presentation (optional)
+## Dataset
+- (optimizecare_data.xlsx)
 
 ## Skills Demonstrated
 - Data cleaning and preparation
