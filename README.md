@@ -16,7 +16,7 @@ This project analyzes medication adherence among 1,000 patients using Tableau to
 
 ## Dashboard Preview
 ![Optimize_care dashboard](https://github.com/jhjackson-code/Optimize_Care_Dataset/blob/main/Dashboard%201%20(2).png)
-- Tableau Dashboard () 
+
 
 
 ## Dataset
